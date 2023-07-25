@@ -1,4 +1,4 @@
 ||reddit.com/r/all/$document
 ||reddit.com/r/manga/$document
 ||reddit.com/r/games/$document
-||https://news.ycombinator.com/$document
+||news.ycombinator.com/$document
