@@ -1,1 +1,2 @@
-# ublock-distraction-filters
+||reddit.com/r/all/$document
+||reddit.com/r/manga/$document
