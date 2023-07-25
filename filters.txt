@@ -2,3 +2,4 @@
 ||reddit.com/r/manga/$document
 ||reddit.com/r/games/$document
 ||news.ycombinator.com/$document
+||reddit.com/r/pathofexile/$document
