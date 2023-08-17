@@ -3,3 +3,4 @@
 ||reddit.com/r/games/$document
 ||news.ycombinator.com/$document
 ||reddit.com/r/pathofexile/$document
+||reddit.com/r/linustechtips/$document
