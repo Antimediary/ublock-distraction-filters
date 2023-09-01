@@ -9,3 +9,5 @@ twitter.com##[aria-label$="Relevant people" i]
 twitter.com##[aria-label="Timeline: Trending now" i]
 twitter.com##[aria-label="Who to follow" i]
 twitter.com##[aria-label="Subscribe to Premium" i]
+twitter.com##[aria-label="Trending" i]
+
