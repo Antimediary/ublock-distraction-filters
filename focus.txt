@@ -1,0 +1,34 @@
+! twitch
+twitch.tv##[playsinline webkit-playsinline]
+
+! mangadex
+mangadex.org##img
+
+! reddit stuff
+reddit.com##head > title:has-text(/all/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/games/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/apple/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/linustechtips/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/pathofexile/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/livestreamfail/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/popular/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/valorant/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/ValorantCompetitive/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/tft/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/starfield/i):upward(html) div[id="siteTable"]
+
+!ycombinator
+news.ycombinator.com##tr[class="athing"]
+news.ycombinator.com##td[class="subtext"]
+
+!twitter
+twitter.com##[aria-label$="Timeline: Your Home Timeline" i]
+
+!youtube - note that this implementation is kind of brittle
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/linus tech tips/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/mrbeast/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/ludwig/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/ign/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/the verge/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/videogamedunkey/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/J. Kenji López-Alt/i):upward(html) video
