@@ -5,6 +5,7 @@ twitch.tv##[playsinline webkit-playsinline]
 mangadex.org##img
 
 ! reddit stuff
+reddit.com##div[id="RESStaticShortcuts"]
 reddit.com##head > title:has-text(/reddit/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/friends/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/saved/i):upward(html) div[id="siteTable"]
