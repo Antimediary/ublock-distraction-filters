@@ -39,6 +39,9 @@ youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/techquickie/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/mac address/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/lmg clips/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/videogamedunkey/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/podcastage/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/eposvox/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/mrbeast/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/ludwig/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/ign/i):upward(html) video
