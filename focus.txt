@@ -56,3 +56,4 @@ bloomberg.com##.zones_zones__YedWY
 arstechnica.com##main[class="content-wrapper"]
 theverge.com##main
 techcrunch.com##.content-wrap
+usafacts.org##.container
