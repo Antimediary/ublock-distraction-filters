@@ -26,6 +26,7 @@ reddit.com##head > title:has-text(/twitch/i):upward(html) div[id="siteTable"]
 !ycombinator
 news.ycombinator.com##tr[class="athing"]
 news.ycombinator.com##td[class="subtext"]
+news.ycombinator.com##.comment-tree
 
 !twitter
 twitter.com##[aria-label$="Timeline: Your Home Timeline" i]
