@@ -6,6 +6,9 @@ mangadex.org##img
 
 ! reddit stuff
 reddit.com##head > title:has-text(/reddit/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/friends/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/saved/i):upward(html) div[id="siteTable"]
+
 reddit.com##head > title:has-text(/all/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/popular/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/games/i):upward(html) div[id="siteTable"]
