@@ -5,16 +5,16 @@ twitch.tv##[playsinline webkit-playsinline]
 mangadex.org##img
 
 ! reddit stuff
+reddit.com##head > title:has-text(/reddit/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/all/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/popular/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/games/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/manga/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/apple/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/linustechtips/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/pathofexile/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/livestreamfail/i):upward(html) div[id="siteTable"]
-reddit.com##head > title:has-text(/popular/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/valorant/i):upward(html) div[id="siteTable"]
-reddit.com##head > title:has-text(/ValorantCompetitive/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/tft/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/starfield/i):upward(html) div[id="siteTable"]
 
