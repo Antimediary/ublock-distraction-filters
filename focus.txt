@@ -29,6 +29,7 @@ news.ycombinator.com##td[class="subtext"]
 twitter.com##[aria-label$="Timeline: Your Home Timeline" i]
 
 !youtube - note that this implementation is kind of brittle
+youtube.com##.ytd-rich-shelf-renderer
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/linus tech tips/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/mrbeast/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/ludwig/i):upward(html) video
