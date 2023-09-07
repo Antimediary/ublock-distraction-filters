@@ -51,6 +51,7 @@ youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/videogamedunkey/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/J. Kenji López-Alt/i):upward(html) video
 youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/Marques Brownlee/i):upward(html) video
+youtube.com##ytd-video-owner-renderer > div > ytd-channel-name > div > div > yt-formatted-string:has-text(/fireship/i):upward(html) video
 
 !news
 nytimes.com##main[id="site-content"]
