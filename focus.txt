@@ -1,3 +1,6 @@
+! twitter
+twitter.com##[aria-label$="New Tweets are available. Push the period key to go to the them." i]
+
 ! twitch
 twitch.tv##[playsinline webkit-playsinline]
 
