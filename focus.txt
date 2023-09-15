@@ -26,7 +26,7 @@ reddit.com##head > title:has-text(/tft/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/starfield/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/youtube/i):upward(html) div[id="siteTable"]
 reddit.com##head > title:has-text(/twitch/i):upward(html) div[id="siteTable"]
-reddit.com##head > title:has-text(/unity3d/i):upward(html) div[id="siteTable"]
+reddit.com##head > title:has-text(/unity/i):upward(html) div[id="siteTable"]
 
 !ycombinator
 news.ycombinator.com##tr[class="athing"]
