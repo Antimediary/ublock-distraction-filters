@@ -1,5 +1,5 @@
 ! twitter
-twitter.com##[aria-label$="New Tweets are available. Push the period key to go to the them." i]
+x.com##[aria-label$="New Tweets are available. Push the period key to go to the them." i]
 
 ! twitch
 twitch.tv##[playsinline webkit-playsinline]
@@ -34,7 +34,7 @@ news.ycombinator.com##td[class="subtext"]
 news.ycombinator.com##.comment-tree
 
 !twitter
-twitter.com##[aria-label$="Timeline: Your Home Timeline" i]
+x.com##[aria-label$="Timeline: Your Home Timeline" i]
 
 !youtube - note that this implementation is kind of brittle
 youtube.com##.ytd-rich-shelf-renderer
